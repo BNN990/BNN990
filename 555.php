@@ -22,11 +22,11 @@ $cmd = "sudo useradd -d /home/$username -p $(perl -e'print crypt(\"$password\", 
 $cmdr = $ssh->exec($cmd);
 echo "บัญชีใช้งาน SSH/OPENVPN สำเร็จ..!!";
 echo "<br>";
-echo "IP: ใส่ไอพี";
+echo "IP: vpn631090893.opengw.net 1929";
 echo "<br>";
 echo "PortSSH: 22 , PortOVPN: 443"; 
 echo "<br>";
-echo "Proxy: ใส่ไอพี:8080";
+echo "Proxy: proxythfree.ankv.online:3128";
 echo "<br>";
 echo "User: $username Pass: $password";
 echo "<br>";
