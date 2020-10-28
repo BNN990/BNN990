@@ -1,50 +1,22 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"2.04",
+"Version":"5.00",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/BNN990/BNN990/raw/master/ZZZ.zip" ,
 "Changelog":"
-________________________________
-ไฟล์อัพเดทล่าสุด 28/10/2020                             
-ไฟล์ลองเทส ทาไม่แรงต้องขอโทษด้วยน่ะครับ
-ไฟล์รองรับ ซิม TRUE & DTAC
+พบไฟล์ใหม่ (28/05/2020)
+รองรับ ซิม TRUE & DTAC
 DTAC โปร SHOPEE
-TRUE โปร SOCIAL
-TRUE โปร YouTube
-เซิฟ TH SG US JP
-ไฟล์ในดับก่อนต้องขอโทษด้วยน่ะครับ
-_________________________________
-ไฟล์ DTAC โปร SHOPEE
-
-DTAC-SHOPEE-SG1
-DTAC-SHOPEE-SG2
-DTAC-SHOPEE-SG3
-DTAC-SHOPEE-SG4
-DTAC-SHOPEE-SG5
-DTAC-SHOPEE-US1
-DTAC-SHOPEE-US2
-DTAC-SHOPEE-US3
-_________________________________
-ไฟล์ TRUE โปร SOCIAL
-
-TRUE-SOCIAL-SG1
-TRUE-SOCIAL-SG2
-TRUE-SOCIAL-SG3
-TRUE-SOCIAL-SG4
-TRUE-SOCIAL-SG5
-TRUE-SOCIAL-US1
-TRUE-SOCIAL-US2
-TRUE-SOCIAL-US3
-__________________________________
-
-
-
-
-
-
-
-
-
+DTAC โปร HAPPYWORK
+TRUE โปร LINE
+มีไฟล์ VPS ฟรี
+มีไฟล์ฟรีเซิฟไทย auto(6เซิฟ)
+ 
+",
+ 
+ 
+ 
+ 
  
  
 //ไม่ต้องยุ่งด้านล่าง
